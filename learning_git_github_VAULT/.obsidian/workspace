@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "3f4e6cd4541acd7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc6fce6c00f33e01",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Git & Github/3. Git & Github -  Command Line.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0056f8fc98a4e35d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6f6a376fb7ef8af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de46f38e7cbb5129",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "39ae291eedf6d076",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215
+  },
+  "right": {
+    "id": "081f33e9b5b6ac75",
+    "type": "split",
+    "children": [
+      {
+        "id": "837b66cef907eeea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce7dcea103650629",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git & Github/3. Git & Github -  Command Line.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bc6fce6c00f33e01",
+  "lastOpenFiles": [
+    "Git & Github/3. Git & Github -  Command Line.md",
+    "Git & Github/2. Git.md",
+    "Git & Github/1. Introduction.md",
+    "Pasted image 20220316211320.png",
+    "Pasted image 20220316210217.png",
+    "Pasted image 20220316205821.png"
+  ]
+}
